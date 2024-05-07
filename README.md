@@ -13,7 +13,7 @@ This is a Python script for extracting email addresses from websites and recursi
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/web-crawler.git
+    git clone https://github.com/ALIEN0X-GitHub/Web-Crawler_Email-Extracter.git
     ```
 
 2. **Install Requirements:**
