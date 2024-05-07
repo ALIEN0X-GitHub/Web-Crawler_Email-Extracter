@@ -77,7 +77,3 @@ def main():
     # Crawl each URL
     for url in args.urls:
         crawl(url, 1, set(), args.depth)
-
-if _name_ == "_main_":
-    print("Created by ALIEN0X")
-    main()
